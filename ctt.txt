@@ -1,0 +1,26 @@
+ketika bola hijau menabrakan bola bola lain maka akan menambahkan skor/value.
+dan ketika menabrak maka pantulannya seperti bola biliard
+
+pemberian design seperti dinding
+dan pemberian fungsi game (
+    ketika menabrak bola lain maka akan dapat point?
+    dan lain lain.
+    pmeberian timer dll
+)
+
+tenggat 2 minggu lagi (sekarang hari selasa 11 juni 2024)
+dan didemo kan, jika ada waktu akan ada ujian lagi untuk tambahan nilai
+
+
+1. 5 bola beda warna bergerak memantul ketika menabrak dinding
+2. Frame kotak pada scene
+3. Bola bergerak memantul jika menabrak sesamanya
+4. Tambahkan 1 bola (ungu) yang dapat dikendalikan menggunakan keyboard
+5.  buat triger modek Bola ungu = (mode menabrak memantul, mode menabrak bola berhenti)
+6. buat text untuk menampung nilai (jumlah bola ungu menabrak bola lainnya)
+7. Install Flask atau dJango
+8. Publish aplikasi ke localhost atau hosting cloud
+
+Nb.
+Tugas mandiri. dan buat laporan tertulis yang berisi penjelasan code (layout laporan standar resmi)
+dan detil publish ke framework pilihan
